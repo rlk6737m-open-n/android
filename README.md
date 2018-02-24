@@ -42,7 +42,7 @@ You may not assign this License, in whole or in part, without INFINIX’s prior 
 # Compiling and Flashing
 1.Download the source code, Repo sync all code with default.xml
 ```shell
-repo init -u git://github.com/OpenSource-Infinix/android.git -b X556N
+repo init -u git://github.com/rlk6737m-open-n/android.git -b X556N
 repo sync
 ./tidyDoc.sh
 ```
